@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex-grow: 1;
+}
+
+.text-light {
+  text-shadow: 1px 1px black;
+}
+
+/* #hidden.hidden {
+  display: none;
+} */
